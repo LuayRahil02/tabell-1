@@ -1,0 +1,33 @@
+table,tr,th,td{
+   border: 1px solid black;
+   border-collapse:collapse;
+   font-size:100%;
+   
+   
+   
+}
+th,td{width:150px;}
+.farg1{
+   text-align:center;color:white;
+}
+.farg2{
+   text-align:center;
+}
+.gulbak{
+   background-color:orange;
+}
+.rodbak{
+   background-color: red;
+}
+.vitfarg{
+   color:white;
+   
+}
+.grobak{
+   background-color: darkgrey;
+}
+.Arial{
+   font-family:arial;
+}
+
+     
